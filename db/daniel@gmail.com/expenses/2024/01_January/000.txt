@@ -1,0 +1,11 @@
+----DESPESA teste DE 27/01/2024 : 18:56:24------------------
+------------------------------------------------------------------------
+
+NOME: teste
+VALOR R$: 200.0
+VENCIMENTO: 27/01/2024
+PARA REPETIR: N
+STATUS: PENDENTE
+MESES A SE REPETIR: 0
+NOTIFICAR SOBRE: N
+OBSERVACOES: nova despesa teste
